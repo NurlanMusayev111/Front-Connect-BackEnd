@@ -1,0 +1,8 @@
+C:\Users\nurlanmm\source\repos\FrontEndProject-Connect-BackEnd\FrontEndProject-Connect-BackEnd\obj\Debug\net6.0\FrontEndProject-Connect-BackEnd.csproj.AssemblyReference.cache
+C:\Users\nurlanmm\source\repos\FrontEndProject-Connect-BackEnd\FrontEndProject-Connect-BackEnd\obj\Debug\net6.0\FrontEndProject-Connect-BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurlanmm\source\repos\FrontEndProject-Connect-BackEnd\FrontEndProject-Connect-BackEnd\obj\Debug\net6.0\FrontEndProject-Connect-BackEnd.AssemblyInfoInputs.cache
+C:\Users\nurlanmm\source\repos\FrontEndProject-Connect-BackEnd\FrontEndProject-Connect-BackEnd\obj\Debug\net6.0\FrontEndProject-Connect-BackEnd.AssemblyInfo.cs
+C:\Users\nurlanmm\source\repos\FrontEndProject-Connect-BackEnd\FrontEndProject-Connect-BackEnd\obj\Debug\net6.0\FrontEndProject-Connect-BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\nurlanmm\source\repos\FrontEndProject-Connect-BackEnd\FrontEndProject-Connect-BackEnd\obj\Debug\net6.0\FrontEndProject-Connect-BackEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nurlanmm\source\repos\FrontEndProject-Connect-BackEnd\FrontEndProject-Connect-BackEnd\obj\Debug\net6.0\FrontEndProject-Connect-BackEnd.RazorAssemblyInfo.cache
+C:\Users\nurlanmm\source\repos\FrontEndProject-Connect-BackEnd\FrontEndProject-Connect-BackEnd\obj\Debug\net6.0\FrontEndProject-Connect-BackEnd.RazorAssemblyInfo.cs
